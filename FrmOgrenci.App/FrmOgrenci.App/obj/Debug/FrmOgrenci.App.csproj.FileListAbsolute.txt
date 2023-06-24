@@ -1,0 +1,13 @@
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\bin\Debug\FrmOgrenci.App.exe.config
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\bin\Debug\FrmOgrenci.App.exe
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\bin\Debug\FrmOgrenci.App.pdb
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.csproj.AssemblyReference.cache
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.Form1.resources
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.FormDers.resources
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.Properties.Resources.resources
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.csproj.GenerateResource.cache
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.csproj.CoreCompileInputs.cache
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.exe
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.pdb
+C:\Users\birsu\source\repos\FrmOgrenci.App\FrmOgrenci.App\obj\Debug\FrmOgrenci.App.frmSonuc.resources
